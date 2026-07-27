@@ -4,7 +4,7 @@
 
 - break
 - continue
-- while loop
+- while loop 
 - Pattern Printing
 
 ## 📂 Programs Included
