@@ -2,7 +2,7 @@
  
 ## 📘 Topics Learned Today
 
-- break
+- break 
 - continue
 - while loop  
 - Pattern Printing
