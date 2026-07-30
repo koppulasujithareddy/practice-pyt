@@ -1,7 +1,7 @@
 # Python Learning Journey 🚀
  
 ## 📘 Topics Learned Today
-
+ 
 - break 
 - continue
 - while loop  
