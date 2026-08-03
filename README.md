@@ -1,6 +1,6 @@
 # Python Learning Journey 🚀
  
-## 📘 Topics Learned Today 
+## 📘 Topics Learned Today  
  
 - break 
 - continue
