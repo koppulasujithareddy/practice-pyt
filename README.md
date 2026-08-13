@@ -12,7 +12,7 @@
 - Break Statement
 - Continue Statement 
 - While Loop
-- Pattern Printing Program
+- Pattern Printing Program 
 
 ## 🌱 About Me
 
