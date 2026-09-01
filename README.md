@@ -5,7 +5,7 @@
 - break 
 - continue
 - while loop  
-- Pattern Printing
+- Pattern Printing 
 
 ## 📂 Programs Included 
 
