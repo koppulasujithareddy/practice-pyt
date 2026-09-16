@@ -7,7 +7,7 @@
 - while loop   
 - Pattern Printing 
 
-## 📂 Programs Included 
+## 📂 Programs Included  
 
 - Break Statement
 - Continue Statement 
