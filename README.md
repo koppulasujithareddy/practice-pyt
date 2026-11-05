@@ -11,7 +11,7 @@
 
 - Break Statement  
 - Continue Statement 
-- While Loop
+- While Loop 
 - Pattern Printing Program 
 
 ## 🌱 About Me
