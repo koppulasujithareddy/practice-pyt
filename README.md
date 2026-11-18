@@ -13,7 +13,7 @@
 - Continue Statement 
 - While Loop 
 - Pattern Printing Program 
-
+ 
 ## 🌱 About Me
 
 I am currently learning Python step-by-step and improving my coding skills through daily practice.
